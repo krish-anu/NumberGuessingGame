@@ -10,7 +10,7 @@ function Result({ randomNumber, term }) {
             result = "higher";
 
         }
-        else if (randomNumber = term) {
+        else if (randomNumber == term) {
             result = "correct";
 
         }
